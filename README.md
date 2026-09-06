@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishGupta321/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AshishGupta321/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AshishGupta321/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AshishGupta321/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AshishGupta321/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AshishGupta321/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AshishGupta321/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AshishGupta321/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AshishGupta321/LeetCode/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AshishGupta321/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AshishGupta321/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AshishGupta321/LeetCode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -74,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AshishGupta321/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AshishGupta321/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AshishGupta321/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AshishGupta321/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
