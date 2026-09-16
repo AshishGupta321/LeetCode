@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AshishGupta321/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AshishGupta321/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/AshishGupta321/LeetCode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/AshishGupta321/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AshishGupta321/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AshishGupta321/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/AshishGupta321/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshishGupta321/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/AshishGupta321/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AshishGupta321/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/AshishGupta321/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
