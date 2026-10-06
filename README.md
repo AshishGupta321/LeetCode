@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AshishGupta321/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AshishGupta321/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AshishGupta321/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/AshishGupta321/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/AshishGupta321/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AshishGupta321/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AshishGupta321/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AshishGupta321/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/AshishGupta321/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshishGupta321/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/AshishGupta321/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AshishGupta321/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AshishGupta321/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/AshishGupta321/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshishGupta321/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AshishGupta321/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AshishGupta321/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/AshishGupta321/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/AshishGupta321/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/AshishGupta321/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AshishGupta321/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AshishGupta321/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AshishGupta321/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AshishGupta321/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AshishGupta321/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AshishGupta321/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AshishGupta321/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AshishGupta321/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AshishGupta321/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AshishGupta321/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/AshishGupta321/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AshishGupta321/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AshishGupta321/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AshishGupta321/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishGupta321/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AshishGupta321/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
