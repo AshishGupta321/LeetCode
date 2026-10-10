@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AshishGupta321/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/AshishGupta321/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AshishGupta321/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/AshishGupta321/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AshishGupta321/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AshishGupta321/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AshishGupta321/LeetCode/tree/master/0204-count-primes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshishGupta321/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/AshishGupta321/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AshishGupta321/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/AshishGupta321/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
